@@ -72,4 +72,8 @@ L<Log::ger>
 
 L<File::Write::Rotate>
 
+L<Log::ger::Output::File>
+
+L<Log::ger::Output::DirWriteRotate>
+
 =cut
